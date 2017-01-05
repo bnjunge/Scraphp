@@ -6,7 +6,7 @@ Will update once I complete all documents perfectly.
 
 
 
-**Ideas**:
+##Ideas##
 
 
 
