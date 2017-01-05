@@ -14,7 +14,7 @@ namespace Scraphp\Modules;
  *  Fake UserAgent Generater
  */
 
-class Fakeagent
+class FakeAgent
 {
     public $option;
     public $type;
