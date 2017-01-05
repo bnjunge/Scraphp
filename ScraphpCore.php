@@ -1,7 +1,6 @@
 <?php
 
 namespace Scraphp;
-
 /*
  * Licensed under The GNU GENERAL PUBLIC LICENSE V3
  * Redistributions of files must retain the above copyright notice.
