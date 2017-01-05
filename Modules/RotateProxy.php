@@ -118,7 +118,7 @@ EOF;
      */
     public function get_last_called_ip()
     {
-        $sql = "SELECT * FROM {$this->db_table} ORDER BY proxy_last_call_time DESC LIMIT 1";
+        $sql = "SELECT * FROM {$this->db_table} ORDER BY proxy_last_call_time LIMIT 1";
         $result = $this->db->query($sql);
         $row = $result->fetch(\PDO::FETCH_ASSOC);
 
